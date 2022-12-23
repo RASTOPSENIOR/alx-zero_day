@@ -1,0 +1,6 @@
+ The school is open! ” > School
+
+cd bash
+
+cd ..
+echo  The school is open! ”
